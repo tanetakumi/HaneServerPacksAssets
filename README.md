@@ -1,13 +1,22 @@
-# Hane Server Assets
+# Hane Server Packs Assets
 
 はね鯖ランチャーのバックグラウンド画像とNews(RSS)を保管する場所です。
+[はね鯖Discord](https://discord.gg/xzbc8yWWUM).
 
 ## バックグラウンド画像
 
-* 大きさ　??? × ???
+* 大きさ
+    * 1920 x 1080 (FHD)
+    * 1920 x 1017 (マイクラスクリーンショット)
+    * 1366 × 768  (FWXGA)
+    こんなところで
+
+* ファイル形式  jpeg jpg
+
+* ファイル名　background.jpg
 
 
 ## News(RSS)
 
-* Nebula is not 100% complete. Unfinished items are listed on the [TODO list](https://github.com/dscalzi/Nebula/issues/2).
-* Currently only supports creating Forge based servers. Vanilla support will be added when Helios v2 is complete.
+* RSSの作り方わからんw
+
