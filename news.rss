@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+
   <channel>
-    
     <title>タイトル</title>
     <description>ディスクリプション</description>
     <pubDate>Sat, 27 Mar 2021 10:22:31 +0000</pubDate>
@@ -10,13 +14,25 @@
     <link>https://www.youtube.com/watch?v=NyUTYwZe_l4</link>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/tanetakumi/HaneServerPacksAssets/main/news.rss"/>
 
-
     <item>
-      <title>アイテム-タイトル</title>
-      <pubDate>Sat, 27 Mar 2021 10:22:31 +0000</pubDate>
-      <content:encoded><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/watch?v=NyUTYwZe_l4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content:encoded>
+      <title>記事1のタイトル</title>
+      <pubDate>Sun, 07 Mar 2021 00:40:12 +0000</pubDate>
+      <link>https://www.youtube.com/watch?v=NyUTYwZe_l4</link>
+      <guid>https://www.youtube.com/watch?v=NyUTYwZe_l4</guid>
+      <author>haneserver@gmail.com (Hane3)</author>
+      <dc:creator>はねさん</dc:creator>
+      <content:encoded><![CDATA[
+  <div class="hello">こんにちは</div></br>
+  はねです。
+  </br>
+  やっとランチャーができました。</br></br>
+11月に自作PCを組み、Linuxなんて一度も触ったことがなかった僕がUbuntuを入れ、マイクラ鯖を立ててみて、shellを学び、javaを学び、githubを初めて知って、
+時にはネットワークに苦戦し、Fortigateを一日かかって設定することもありました。</br>
+そして、今はMOD、Plugin、ランチャーまでも作れるようになっていました。半年もたたず、ここまでこれたのは皆さんが鯖でたくさん遊んでくれたからだと僕は思います。</br>
+誰も入ってなければきっと作る目的も見いだせなかったでしょう。これからも大学の勉強も頑張りつつゆっくりと鯖運営を進めていくので、ぜひ末永くはね鯖をよろしくお願いします。
+]]>
+      </content:encoded>
+      <slash:comments>5</slash:comments>
     </item>
-
-
   </channel>
 </rss>
