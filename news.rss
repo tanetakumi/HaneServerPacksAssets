@@ -5,30 +5,51 @@
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 
-  <channel>
-    <title>タイトル</title>
-    <description>ディスクリプション</description>
-    <pubDate>Sat, 27 Mar 2021 10:22:31 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Mar 2021 10:22:31 +0000</lastBuildDate>
-    <generator>Hane3</generator>
-    <link>https://www.youtube.com/watch?v=NyUTYwZe_l4</link>
-    <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/tanetakumi/HaneServerPacksAssets/main/news.rss"/>
+	<channel>
+		<title>サイトのタイトル</title>
+		<description>サイトの内容</description>
+		<dc:language>ja</dc:language>
+		<dc:creator>Hane3</dc:creator>
+		<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
+		
+		<item>
+			<title>ランチャー完成</title>
+			<pubDate>Sun, 07 Mar 2021 00:40:12 +0000</pubDate>
+			<dc:creator>はねさん</dc:creator>
+			<content:encoded><![CDATA[<div class="hello">こんにちわ</div>]]></content:encoded>
+			<slash:comments>5</slash:comments>
+		</item>
 
-    <item>
-      <title>記事1のタイトル</title>
-      <pubDate>Sun, 07 Mar 2021 00:40:12 +0000</pubDate>
-      <link>https://www.youtube.com/watch?v=NyUTYwZe_l4</link>
-      <guid>https://www.youtube.com/watch?v=NyUTYwZe_l4</guid>
-      <author>haneserver@gmail.com (Hane3)</author>
-      <dc:creator>はねさん</dc:creator>
-      <content:encoded><![CDATA[<div class="hello">こんにちは</div></br>
-<div>はねです。</br>やっとランチャーができました。</br></br>
-11月に自作PCを組み、Linuxなんて一度も触ったことがなかった僕がUbuntuを入れ、マイクラ鯖を立ててみて、shellを学び、javaを学び、githubを初めて知って、
-時にはネットワークに苦戦し、Fortigateを一日かかって設定することもありました。</br>
-そして、今はMOD、Plugin、ランチャーまでも作れるようになっていました。半年もたたず、ここまでこれたのは皆さんが鯖でたくさん遊んでくれたからだと僕は思います。</br>
-誰も入ってなければきっと作る目的も見いだせなかったでしょう。これからも大学の勉強も頑張りつつゆっくりと鯖運営を進めていくので、ぜひ末永くはね鯖をよろしくお願いします。
-</div>]]></content:encoded>
-      <slash:comments>5</slash:comments>
-    </item>
-  </channel>
+		<item>
+			<title>記事2のタイトル</title>
+			<content:encoded><![CDATA[<div class="hello">こんにちわ</div>]]></content:encoded>
+			<dc:subject>記事1のカテゴリ名</dc:subject>
+			<dc:creator>記事1の作者名</dc:creator> 
+			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
+		</item>
+
+		<item>
+			<title>記事3のタイトル</title>
+			<encoded><![CDATA[<div class="hello">こんにちわ</div>]]></encoded>
+			<dc:subject>記事1のカテゴリ名</dc:subject>
+			<dc:creator>記事1の作者名</dc:creator> 
+			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
+		</item>
+
+		<item>
+			<title>記事4のタイトル</title>
+			<encoded><![CDATA[<div class="hello">こんにちわ</div>]]></encoded>
+			<dc:subject>記事1のカテゴリ名</dc:subject>
+			<dc:creator>記事1の作者名</dc:creator> 
+			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
+		</item>
+
+        	<item>
+			<title>記事5のタイトル</title>
+			<encoded><![CDATA[<div class="hello">こんにちわ</div>]]></encoded>
+			<dc:subject>記事1のカテゴリ名</dc:subject>
+			<dc:creator>記事1の作者名</dc:creator> 
+			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
+		</item>
+	</channel>
 </rss>
