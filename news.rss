@@ -14,9 +14,13 @@
 		
 		<item>
 			<title>ランチャー完成</title>
+			<link>https://www.youtube.com/watch?v=ulfY8WQE_HE</link>
 			<pubDate>Sun, 07 Mar 2021 00:40:12 +0000</pubDate>
 			<dc:creator>はねさん</dc:creator>
-			<content:encoded><![CDATA[<div class="hello">こんにちわ</div>]]></content:encoded>
+			<content:encoded>
+<![CDATA[<div class="hello">こんにちわ</div>
+<a href="https://www.youtube.com/watch?v=aRDURmIYBZ4" class="link">Mela!</a>]]>
+			</content:encoded>
 			<slash:comments>5</slash:comments>
 		</item>
 
