@@ -21,17 +21,13 @@
       <guid>https://www.youtube.com/watch?v=NyUTYwZe_l4</guid>
       <author>haneserver@gmail.com (Hane3)</author>
       <dc:creator>はねさん</dc:creator>
-      <content:encoded><![CDATA[
-  <div class="hello">こんにちは</div></br>
-  はねです。
-  </br>
-  やっとランチャーができました。</br></br>
+      <content:encoded><![CDATA[<div class="hello">こんにちは</div></br>
+<div>はねです。</br>やっとランチャーができました。</br></br>
 11月に自作PCを組み、Linuxなんて一度も触ったことがなかった僕がUbuntuを入れ、マイクラ鯖を立ててみて、shellを学び、javaを学び、githubを初めて知って、
 時にはネットワークに苦戦し、Fortigateを一日かかって設定することもありました。</br>
 そして、今はMOD、Plugin、ランチャーまでも作れるようになっていました。半年もたたず、ここまでこれたのは皆さんが鯖でたくさん遊んでくれたからだと僕は思います。</br>
 誰も入ってなければきっと作る目的も見いだせなかったでしょう。これからも大学の勉強も頑張りつつゆっくりと鯖運営を進めていくので、ぜひ末永くはね鯖をよろしくお願いします。
-]]>
-      </content:encoded>
+</div>]]></content:encoded>
       <slash:comments>5</slash:comments>
     </item>
   </channel>
