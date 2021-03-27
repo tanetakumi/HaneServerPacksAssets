@@ -28,5 +28,16 @@
 ## News(RSS)
 [NEWS](https://raw.githubusercontent.com/tanetakumi/HaneServerPacksAssets/main/news.rss)
 
-* RSSの作り方わからんw
+アイテムの書き方
+
+```
+<item>
+   <title>タイトル</title>
+   <link>タイトルリンク</link>
+   <pubDate>Sun, 07 Mar 2021 00:40:12 +0000</pubDate>
+   <dc:creator筆者</dc:creator>
+   <content:encoded><![CDATA[　コンテンツ　]]></content:encoded>
+</item>
+```
+
 
