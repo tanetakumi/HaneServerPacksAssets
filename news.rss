@@ -1,59 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
-
-	<channel>
-		<title>サイトのタイトル</title>
-		<description>サイトの内容</description>
-		<dc:language>ja</dc:language>
-		<dc:creator>Hane3</dc:creator>
-		<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
-		
-		<item>
-			<title>ランチャー完成</title>
-			<link>https://www.youtube.com/watch?v=ulfY8WQE_HE</link>
-			<pubDate>Sun, 07 Mar 2021 00:40:12 +0000</pubDate>
-			<dc:creator>はねさん</dc:creator>
-			<content:encoded>
-<![CDATA[<div class="hello">こんにちわ</div>
-<a href="https://www.youtube.com/watch?v=aRDURmIYBZ4" class="link">Mela!</a>]]>
-			</content:encoded>
-			<slash:comments>5</slash:comments>
-		</item>
-
-		<item>
-			<title>記事2のタイトル</title>
-			<content:encoded><![CDATA[<div class="hello">こんにちわ</div>]]></content:encoded>
-			<dc:subject>記事1のカテゴリ名</dc:subject>
-			<dc:creator>記事1の作者名</dc:creator> 
-			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
-		</item>
-
-		<item>
-			<title>記事3のタイトル</title>
-			<encoded><![CDATA[<div class="hello">こんにちわ</div>]]></encoded>
-			<dc:subject>記事1のカテゴリ名</dc:subject>
-			<dc:creator>記事1の作者名</dc:creator> 
-			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
-		</item>
-
-		<item>
-			<title>記事4のタイトル</title>
-			<encoded><![CDATA[<div class="hello">こんにちわ</div>]]></encoded>
-			<dc:subject>記事1のカテゴリ名</dc:subject>
-			<dc:creator>記事1の作者名</dc:creator> 
-			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
-		</item>
-
-        	<item>
-			<title>記事5のタイトル</title>
-			<encoded><![CDATA[<div class="hello">こんにちわ</div>]]></encoded>
-			<dc:subject>記事1のカテゴリ名</dc:subject>
-			<dc:creator>記事1の作者名</dc:creator> 
-			<dc:date>Sat, 27 Mar 2021 02:02:59 +0000</dc:date>
-		</item>
-	</channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>HANE Server Blog</title>
+<link>https://haneserver.github.io/hane-server-blog/</link>
+<image>
+<url>https://haneserver.github.io/hane-server-blog/icon.png</url>
+<title>HANE Server Blog</title>
+<link>https://haneserver.github.io/hane-server-blog/</link>
+</image>
+<atom:link href="https://haneserver.github.io/hane-server-blog/rss2.xml" rel="self" type="application/rss+xml"/>
+<description>test</description>
+<pubDate>Sun, 27 Nov 2022 07:07:07 GMT</pubDate>
+<generator>http://hexo.io/</generator>
+<item>
+<title>hane-server</title>
+<link>https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/</link>
+<guid>https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/</guid>
+<pubDate>Sun, 27 Nov 2022 07:03:15 GMT</pubDate>
+<description><p>Test Post</p> <h1 id="こんにちは"><a href="#こんにちは" class="headerlink" title="こんにちは"></a>こんにちは</h1><p>Hane Server</p> <h2 id="Tag"><a</description>
+<comments>https://haneserver.github.io/hane-server-blog/2022/11/claz0qva80000f0uh7vfc0dm2/#disqus_thread</comments>
+</item>
+<item>
+<title>Hello World</title>
+<link>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/</link>
+<guid>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/</guid>
+<pubDate>Wed, 14 Sep 2022 09:50:24 GMT</pubDate>
+<description><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a></description>
+<comments>https://haneserver.github.io/hane-server-blog/2022/09/cl81ntbc7000084uh8avdgfvq/#disqus_thread</comments>
+</item>
+</channel>
 </rss>
